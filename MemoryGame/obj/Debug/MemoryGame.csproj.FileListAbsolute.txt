@@ -1,0 +1,11 @@
+C:\Users\e8802\source\repos\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\e8802\source\repos\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\e8802\source\repos\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\e8802\source\repos\MemoryGame\obj\Debug\MemoryGame.Properties.Resource1.resources
